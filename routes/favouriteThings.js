@@ -10,15 +10,13 @@ router.get('/', (req, res, next) => {
             return console.error(err);
         }
         else{
-            console.log(favouritesList);
+            // console.log(favouritesList);
         }
 
-        /*
-        res.render('favouriteThings/index', {
-            title: 'My Favourite Things'
+        res.render('contacts/index', {
+            title: 'My Favourite Things',
             favouritesList: favouritesList
         });
-        */
     });
 });
 
