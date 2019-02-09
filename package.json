@@ -1,5 +1,5 @@
 {
-  "name": "comp308-w2019-lesson4",
+  "name": "comp308-w2019-lesson5",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mokhy/COMP308-W2019-Lesson4.git"
+    "url": "git+https://github.com/mokhy/COMP308-W2019-Lesson5.git"
   },
   "bugs": {
-    "url": "https://github.com/mokhy/COMP308-W2019-Lesson4/issues"
+    "url": "https://github.com/mokhy/COMP308-W2019-Lesson5/issues"
   },
-  "homepage": "https://github.com/mokhy/COMP308-W2019-Lesson4#readme"
+  "homepage": "https://github.com/mokhy/COMP308-W2019-Lesson5#readme"
 }
