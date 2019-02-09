@@ -10,7 +10,7 @@ let contactSchema = mongoose.Schema({
     age: Number
 },
 {
-    // specifys which collection this schema refers to
+    // specifies which collection this schema refers to
     collection: "first"
 });
 
